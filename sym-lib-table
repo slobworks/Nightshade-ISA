@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "gd542x")(type "Legacy")(uri "${KIPRJMOD}/new_parts/gd542x.lib")(options "")(descr ""))
+  (lib (name "SOJ_DRAM")(type "Legacy")(uri "${KIPRJMOD}/new_parts/SOJ_DRAM.lib")(options "")(descr ""))
+  (lib (name "1206_Wide")(type "Legacy")(uri "${KIPRJMOD}/new_parts/1206_Wide/1206_Wide.lib")(options "")(descr ""))
+  (lib (name "skunny-rescue")(type "Legacy")(uri "${KIPRJMOD}/skunny-rescue.lib")(options "")(descr ""))
+)
