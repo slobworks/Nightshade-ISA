@@ -1,3 +1,4 @@
+WARNING: VESA Feature Connector pinout is screwed up. DO NOT USE THE VFC OF VERSION 0.8. A fix is being planned.
 ![front](https://github.com/user-attachments/assets/05af06ad-a0f6-4f62-9d29-58de9470c6be)
 ![back](https://github.com/user-attachments/assets/27945c3e-1d9d-4d12-8692-36b12b05ef40)
 NIGHTSHADE v0.8 - Public Domain Cirrus Logic CL-GD542x Based ISA VGA Card
