@@ -1,12 +1,12 @@
 Starting with v0.8a, the VFC should conform to the official schematics provided by Cirrus Logic.
 Version 0.8 had a broken VFC altogether with a missing signal and wacked out assignments, these issues have been fixed starting with 0.8a.
-![front](https://github.com/user-attachments/assets/05af06ad-a0f6-4f62-9d29-58de9470c6be)
-![back](https://github.com/user-attachments/assets/27945c3e-1d9d-4d12-8692-36b12b05ef40)
+
 NIGHTSHADE v0.8a - Public Domain Cirrus Logic CL-GD542x Based ISA VGA Card
 
 As it says on the package. This card supports a maximum memory size of 1MB or 2MB, depending on the chip you use, using traditional multiple-CAS FPM 256Kx16 SOJ memory. 70ns or faster is recommended.
 Created using KiCAD 8.0.
-
+![front](https://github.com/user-attachments/assets/393c53df-8135-438b-9fc5-5c563269fe31)
+![back](https://github.com/user-attachments/assets/3b9248c0-7166-4796-8ced-540df6c45183)
 
 Features:
 - Four layer PCB with generous stitching vias for maximum possible signal integrity
