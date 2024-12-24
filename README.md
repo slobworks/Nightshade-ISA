@@ -5,8 +5,9 @@ NIGHTSHADE v0.8a - Public Domain Cirrus Logic CL-GD542x Based ISA VGA Card
 
 As it says on the package. This card supports a maximum memory size of 1MB or 2MB, depending on the chip you use, using traditional multiple-CAS FPM 256Kx16 SOJ memory. 70ns or faster is recommended.
 Created using KiCAD 8.0.
-![front](https://github.com/user-attachments/assets/393c53df-8135-438b-9fc5-5c563269fe31)
-![back](https://github.com/user-attachments/assets/3b9248c0-7166-4796-8ced-540df6c45183)
+![front](https://github.com/user-attachments/assets/2cce3e66-a204-4d17-acc6-12c2e80ca392)
+![back](https://github.com/user-attachments/assets/7be9cca2-91c8-4a83-b88d-a6f5e10e619c)
+
 
 Features:
 - Four layer PCB with generous stitching vias for maximum possible signal integrity
