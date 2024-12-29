@@ -15,6 +15,7 @@ Features:
 Release History:
 - 0.8a: Fixed VESA Feature Connector pinout, now conforms to Cirrus datasheet
 - 0.8b: Resolved a number of issues related to VGA output quality (no more wavy interference onscreen!), and reduced the parts count a bit. Fewer parts means less $$ spent, and less breathing of solder fumes.
+- 0.8b2: Changed LM334SM to the _much_ cheaper LM334M.
 
 Released into the Public Domain. Use whatever license floats your boat on your own edits.
 
