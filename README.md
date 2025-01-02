@@ -20,6 +20,9 @@ Release History:
 - 0.8c: Pretty heavy tweak-up of both layout, ground pours, and placement of 75 ohm termination resistors following feedback from TmEE, Jorge and others. Thanks everyone who spoke up to help.
 Also re-added DPAK LF50 regulator for the RAMDAC, and yes, it is optional if you want to pinch pennies on the dollar - just remember to only populate R22 if you're **not** using a regulator. If you're installing the regulator, leave R22 **OPEN**.
 
+Other people's stuff I've used:
+- PLCC-32 footprint from KiCAD (SchrodingersGat ?): https://github.com/KiCad/Housings_LCC.pretty/blob/master/PLCC-32_SMD-Socket.kicad_mod
+
 Released into the Public Domain. Use whatever license floats your boat on your own edits.
 
 As you can see I'm a bit of a neophyte when it comes to this GitHub stuff.
