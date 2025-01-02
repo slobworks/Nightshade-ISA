@@ -1,9 +1,9 @@
-NIGHTSHADE v0.8c - Public Domain Cirrus Logic CL-GD542x Based ISA VGA Card
+NIGHTSHADE v0.8c1 - Public Domain Cirrus Logic CL-GD542x Based ISA VGA Card
 
 As it says on the package. This card supports a maximum memory size of 1MB or 2MB, depending on the chip you use, using traditional multiple-CAS FPM 256Kx16 SOJ memory. 70ns or faster is recommended.
 Created using KiCAD 8.0.
-![front](https://github.com/user-attachments/assets/762ac9e9-fc76-4317-8207-deabd1be05fe)
-![back](https://github.com/user-attachments/assets/6d6f9794-d5ff-451d-8d7e-9335f7c70a54)
+![front](https://github.com/user-attachments/assets/eca1a294-541e-487d-affa-6e6ac91ba005)
+![back](https://github.com/user-attachments/assets/5ed2fb3f-9809-440e-b2cc-6a4244e20a79)
 
 Features:
 - Four layer PCB with generous stitching vias for maximum possible signal integrity
@@ -19,6 +19,7 @@ Release History:
 - 0.8b2: Changed LM334SM to the _much_ cheaper LM334M.
 - 0.8c: Pretty heavy tweak-up of both layout, ground pours, and placement of 75 ohm termination resistors following feedback from TmEE, Jorge and others. Thanks everyone who spoke up to help.
 Also re-added DPAK LF50 regulator for the RAMDAC, and yes, it is optional if you want to pinch pennies on the dollar - just remember to only populate R22 if you're **not** using a regulator. If you're installing the regulator, leave R22 **OPEN**.
+- 0.8c1: Changed ROM footprint to an SMD PLCC-32 socket, and had to re-space stuff around it to make it fit. This looks like it ought to work: https://www.digikey.com/en/products/detail/amphenol-cs-fci/69802-132LF/2023294 
 
 Other people's stuff I've used:
 - PLCC-32 footprint from KiCAD (SchrodingersGat ?): https://github.com/KiCad/Housings_LCC.pretty/blob/master/PLCC-32_SMD-Socket.kicad_mod
