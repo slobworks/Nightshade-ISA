@@ -17,7 +17,8 @@ Release History:
 - 0.8a: Fixed VESA Feature Connector pinout, now conforms to Cirrus datasheet
 - 0.8b: Resolved a number of issues related to VGA output quality (no more wavy interference onscreen!), and reduced the parts count a bit. Fewer parts means less $$ spent, and less breathing of solder fumes.
 - 0.8b2: Changed LM334SM to the _much_ cheaper LM334M.
-- 0.8c: Pretty heavy tweak-up of both layout, ground pours, and placement of 75 ohm termination resistors following feedback from TmEE. Also re-added DPAK LF50 regulator for the RAMDAC, and yes it is optional if you want to pinch pennies on the dollar - just remember to only populate R22 if you're **not** using a regulator. If you're installing the regulator, leave R22 **OPEN**.
+- 0.8c: Pretty heavy tweak-up of both layout, ground pours, and placement of 75 ohm termination resistors following feedback from TmEE, Jorge and others. Thanks everyone who spoke up to help.
+Also re-added DPAK LF50 regulator for the RAMDAC, and yes, it is optional if you want to pinch pennies on the dollar - just remember to only populate R22 if you're **not** using a regulator. If you're installing the regulator, leave R22 **OPEN**.
 
 Released into the Public Domain. Use whatever license floats your boat on your own edits.
 
