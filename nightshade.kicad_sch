@@ -32149,7 +32149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_LCC:PLCC-32_11.4x14.0mm_P1.27mm"
+		(property "Footprint" "SOJ_DRAM:PLCC-32_SMD-Socket"
 			(at 313.69 143.51 0)
 			(effects
 				(font
